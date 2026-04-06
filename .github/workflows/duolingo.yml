@@ -16,4 +16,3 @@ jobs:
       - uses: centrumek/duolingo-readme-stats@v1.0.0
         with:
           DUOLINGO_USER_ID: <Your duolingo.com user ID>
-          ADVANCED_TOKEN_JWT: <Your duolingo.com JWT token>
