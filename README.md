@@ -46,7 +46,7 @@
 <!-- duolingo -->
 
 <div align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=lucas333587&theme=dark" alt="Estatísticas do Duolingo do Lucas" />
+  <img src="https://duolingo-stats-card.vercel.app/api?username=lucas333587&theme=monokai" alt="Estatísticas do Duolingo do Lucas" />
 </div>
 
 <!-- steam -->
