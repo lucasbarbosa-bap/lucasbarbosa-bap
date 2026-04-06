@@ -68,8 +68,8 @@
 
 <!-- Github Status -->
 <div align="center">
-  <img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="300" alt="Danganronpa Chaos" />
-  <h2>  O verdadeiro desespero em formato de Commits  </h2>
+  <img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="120" alt="Danganronpa Chaos" />
+  <h2> O verdadeiro desespero em formato de Commits </h2>
 </div>
 <br>
 
