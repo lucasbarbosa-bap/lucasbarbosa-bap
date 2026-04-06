@@ -51,11 +51,11 @@
 
 <!-- steam -->
 
-<!-- Steam-Stats start -->
-<!-- Steam-Stats end -->
+<!-- steam-stats start -->
+<!-- steam-stats end -->
 
-<!-- Steam-Workshop start -->
-<!-- Steam-Workshop end -->
+<!-- steam-workshop start -->
+<!-- steam-workshop end -->
 
 <!-- status do github -->
 
