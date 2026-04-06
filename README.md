@@ -45,9 +45,9 @@
 
 <!-- duolingo -->
 
-<!--START_SECTION:duolingoStats-->
-
-<!--END_SECTION:duolingoStats-->
+<div align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=lucas333587&theme=dark" alt="Estatísticas do Duolingo do Lucas" />
+</div>
 
 <!-- steam -->
 
