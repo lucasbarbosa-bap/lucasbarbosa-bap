@@ -12,6 +12,8 @@ jobs:
   steam-stats:
     name: Steam Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: nicconike/steam-stats@master
         with:
