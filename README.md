@@ -50,12 +50,20 @@
 </div>
 
 <!-- steam -->
+<div align="center">
+  <a href="https://steamcommunity.com/profiles/76561199226991653" target="_blank">
+   <!-- CARD STEAM HOURS PLAYED <img src="https://steam-widget.com/widget/img?id=76561199226991653&gameList=TOP_GAMES_TOTAL&gameListSize=5&playingRightNow=TRUE&purpose=github_repo" alt="Status da Steam do lutaw"  width="260"/> -->
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199226991653" height="240"/>
+  </a>
+</div>
+
+<!-- Github Status -->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Estatísticas do Lucas" />
   
   <img width="15" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Linguagens mais usadas" />
-</div>
+</div> 
 
 
 <!-- Fun facts/Anime vaults -->
