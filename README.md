@@ -18,11 +18,11 @@
 </div>
 
 <!-- Status Report -->
-<h2>  Current Quests 😝:  </h2>
+<h2> Current Quests 😝: </h2>
 <blockquote>
-    <p> 💻   <strong>Trabalhando atualmente em:</strong> JOJOBOOK;    </p>
-    <p> 📚   estudando:</strong> Japonês, vue e como deixar de procrastinar (kk);    </p>
-    <p> ⭐   Minha meta:</strong> ensino superior na área de TI ou intercâmbio.    </p>
+    <p> 💻 <strong>Trabalhando atualmente em:</strong> JOJOBOOK;    </p>
+    <p> 📚 <strong>Estudando:</strong> Japonês, Vue e como deixar de procrastinar (kk);    </p>
+    <p> ⭐ <strong>Minha meta:</strong> Ensino superior na área de TI ou intercâmbio.    </p>
 </blockquote>
 
 <!-- Skills -->
@@ -61,8 +61,8 @@
 <!-- steam -->
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199226991653" target="_blank">
-   <!-- CARD STEAM HOURS PLAYED <img src="https://steam-widget.com/widget/img?id=76561199226991653&gameList=TOP_GAMES_TOTAL&gameListSize=5&playingRightNow=TRUE&purpose=github_repo" alt="Status da Steam do lutaw"  width="260"/> -->
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199226991653" height="240"/>
+   <img src="https://steam-widget.com/widget/img?id=76561199226991653&gameList=TOP_GAMES_TOTAL&gameListSize=5&playingRightNow=TRUE&purpose=github_repo" alt="Status da Steam do lutaw"  width="420"/>
+    <!-- <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199226991653" height="240"/> -->
   </a>
 </div>
 
@@ -106,7 +106,7 @@
 
 <details>
   <summary>  Kasane Teto   </summary>
-  <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
+  <blockquote><img src="https://media1.tenor.com/m/bPyHJ28T24YAAAAC/teto-stupid.gif" width="150"></blockquote>
 </details>
 <br>
 
