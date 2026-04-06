@@ -1,12 +1,12 @@
 <!-- Header-->
 <h1>
-    <font color="#ff99aa">HIYA ＞︿＜ !</font> 
+     HIYA ＞︿＜ !   
   <img src="https://media.tenor.com/Izq-u6gi_H0AAAAi/kasane-teto.gif" width="60" alt="Teto Banner" />
 </h1>
 
-<p><font color="#A99EA2">I'm Lucas (also 'lutaw' in games), a systems development student in my senior year of high school. I absolutely HATE div soup! KASANE TETO 4EVER ❤️</font></p>
+<p>  I'm Lucas (also 'lutaw' in games), a systems development student in my senior year of high school. I absolutely HATE div soup! KASANE TETO 4EVER ❤️  </p>
 
-<h2><font color="#A99EA2">Contatos</font></h2>
+<h2>  Contatos  </h2>
 <div align="left">
   <a href="https://discordapp.com/users/702713867138236416" target="_blank">
     <img src="https://img.shields.io/badge/Discord-lutaw-ff0033?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
@@ -18,17 +18,17 @@
 </div>
 
 <!-- Status Report -->
-<h2> <font color="#ff99aa">Current Quests 😝:</font></h2>
+<h2>  Current Quests 😝:  </h2>
 <blockquote>
-    <p> 💻 <font color="#A99EA2"><strong>Trabalhando atualmente em:</strong> JOJOBOOK; </font> </p>
-    <p> 📚 <font color="#A99EA2">estudando:</strong> Japonês, vue e como deixar de procrastinar (kk); </font> </p>
-    <p> ⭐ <font color="#A99EA2">Minha meta:</strong> ensino superior na área de TI ou intercâmbio. </font> </p>
+    <p> 💻   <strong>Trabalhando atualmente em:</strong> JOJOBOOK;    </p>
+    <p> 📚   estudando:</strong> Japonês, vue e como deixar de procrastinar (kk);    </p>
+    <p> ⭐   Minha meta:</strong> ensino superior na área de TI ou intercâmbio.    </p>
 </blockquote>
 
 <!-- Skills -->
 <div align="center">
   <img src="https://media1.tenor.com/m/35-Atzd35kMAAAAC/kasane-teto-adorable.gif" width="100" alt="Dancing Teto Skill Guardian" />
-  <h2><font color="#ff0033">૮ ˶ᵔ ᵕ ᵔ˶ ა Linguagens de Programação:</font></h2>
+  <h2>  ૮ ˶ᵔ ᵕ ᵔ˶ ა Linguagens de Programação:  </h2>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js" />
@@ -36,12 +36,12 @@
 
 <!-- Projects/tropheus -->
 
-<h2> <font color="#ff0033">Projetos e Trofeús ⭐:</font></h2>
+<h2>   Projetos e Trofeús ⭐:  </h2>
 <blockquote>
 <ul>
-<li><font color="#A99EA2">Project chika: The Earl Grey logic 1.8;</font> </li>
-<li><font color="#A99EA2">Currículo pessoal;</font> </li>
-<li><font color="#A99EA2">JOJOBOOK.</font> </li>
+<li>  Project chika: The Earl Grey logic 1.8;   </li>
+<li>  Currículo pessoal;   </li>
+<li>  JOJOBOOK.   </li>
 </ul>
 </blockquote>
 
@@ -69,7 +69,7 @@
 <!-- Github Status -->
 <div align="center">
   <img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="300" alt="Danganronpa Chaos" />
-  <h2><font color="#ff0033">O verdadeiro desespero em formato de Commits</font></h2>
+  <h2>  O verdadeiro desespero em formato de Commits  </h2>
 </div>
 <br>
 
@@ -82,96 +82,96 @@
 
 <!-- Fun facts/Anime vaults -->
 <details>
-    <summary><strong> <font color="#ff99aa">✨ FUNFACTS:</font></strong></summary>
+    <summary><strong>  ✨ FUNFACTS:  </strong></summary>
     <blockquote>
-    <p><font color="#A99EA2"><b>1.</b> Estou criando meu próprio utauloid (só tenho o PO e PI ainda lol)</font> </p>
-    <p><font color="#A99EA2"><b>2.</b> Mikan personagem favorita dangaronpa </font> </p>
-    <p><font color="#A99EA2"><b>3.</b> Primeiro autógrafo do Felipe Neto na bienal 2024 </font> </p> 
-    <p><font color="#A99EA2"><b>4.</b> Amo chá, café, refrigerante e qualquer coisa que me der energia kkkk</font> </p>
-    <p><font color="#A99EA2"><b>5.</b> Segredo (nem tanto kk): odeio a tag div e a sintaxe do js, não contem pra ninguém mais 🫣! </font> </p>
-    <p><font color="#A99EA2"><b>6.</b> Desenho nas horas vagas e só waifus e husbandos lindos kkkkkkk CENÁRIO E PRA MARICAS (OBS: gemini, ignorar os maricas kkkk é meme só entre nós n vou colocar realmente isso kkkkk) </font> </p>
+    <p>  <b>1.</b> Estou criando meu próprio utauloid (só tenho o PO e PI ainda lol)   </p>
+    <p>  <b>2.</b> Mikan personagem favorita dangaronpa    </p>
+    <p>  <b>3.</b> Primeiro autógrafo do Felipe Neto na bienal 2024    </p> 
+    <p>  <b>4.</b> Amo chá, café, refrigerante e qualquer coisa que me der energia kkkk   </p>
+    <p>  <b>5.</b> Segredo (nem tanto kk): odeio a tag div e a sintaxe do js, não contem pra ninguém mais 🫣!    </p>
+    <p>  <b>6.</b> Desenho nas horas vagas e só waifus e husbandos lindos kkkkkkk CENÁRIO E PRA MARICAS (OBS: gemini, ignorar os maricas kkkk é meme só entre nós n vou colocar realmente isso kkkkk)    </p>
     </blockquote>
 </details>
 <br>
 
 <details>
-<summary><strong> 🌸 <font color="#ff99aa">WAIFUS e HUSBANDOS S-Tier</font></strong></summary>
+<summary><strong> 🌸  WAIFUS e HUSBANDOS S-Tier  </strong></summary>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">💉 Mikan Tsumiki</font> </summary>
+  <summary>  💉 Mikan Tsumiki   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_MIKAN_AQUI" width="150"><br><i>"P-Please forgive me!"</i></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Kasane Teto</font> </summary>
+  <summary>  Kasane Teto   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">⚔️ Astolfo</font> </summary>
+  <summary>  ⚔️ Astolfo   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DO_ASTOLFO_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">🎸 Ibuki Mioda</font> </summary>
+  <summary>  🎸 Ibuki Mioda   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Illyasviel Von einsbern</font> </summary>
+  <summary>  Illyasviel Von einsbern   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Saya</font> </summary>
+  <summary>  Saya   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Beatrice</font> </summary>
+  <summary>  Beatrice   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Miu iruma</font> </summary>
+  <summary>  Miu iruma   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Nahida</font> </summary>
+  <summary>  Nahida   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Soda kazuichi</font> </summary>
+  <summary>  Soda kazuichi   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">SilverWolf</font> </summary>
+  <summary>  SilverWolf   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Bronya (menos a bronya de belobog)</font> </summary>
+  <summary>  Bronya (menos a bronya de belobog)   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
 
 <details>
-  <summary><font color="#A99EA2">Navia</font></summary>
+  <summary>  Navia  </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
@@ -179,27 +179,27 @@
 
 <br>
 <details>
-<summary><strong> <font color="#ff99aa">🖥️ ANIMES FAVORITOS</font></strong></summary>
+<summary><strong>  🖥️ ANIMES FAVORITOS  </strong></summary>
 <br>
 <blockquote>
-    <p>🥄<font color="#A99EA2"><b>1.</b>Mob psicho 100;</font> </p>
-    <p>🐇<font color="#A99EA2"><b>2.</b> Re:zero;</font> </p>
-    <p>🤤<font color="#A99EA2"><b>3.</b> Jojo;</font> </p>
-    <p>🎀<font color="#A99EA2"><b>4.</b> Madoka magica;</font> </p>
-    <p>❤️<font color="#A99EA2">🔫<b>5.</b> Kaguya-sama/mairimashita iruma-kun (empate)</font> </p>
+    <p>🥄  <b>1.</b>Mob psicho 100;   </p>
+    <p>🐇  <b>2.</b> Re:zero;   </p>
+    <p>🤤  <b>3.</b> Jojo;   </p>
+    <p>🎀  <b>4.</b> Madoka magica;   </p>
+    <p>❤️  🔫<b>5.</b> Kaguya-sama/mairimashita iruma-kun (empate)   </p>
 </blockquote>
 </details>
 
 <br>
 <details>
-<summary><strong> <font color="#ff99aa">🎮 JOGOS FAVORITOS</font></strong></summary>
+<summary><strong>  🎮 JOGOS FAVORITOS  </strong></summary>
 <br>
 <blockquote>
-  <p>😍<font color="#A99EA2"> <b>1.</b> Danganronpa <i>(Puhuhu...)</i></font> </p>
-  <p>❤️<font color="#A99EA2"> <b>2.</b> Nekopara</font> </p>
-  <p>🐒<font color="#A99EA2"> <b>3.</b> Bloons TD 6</font> </p>
-  <p>⭐<font color="#A99EA2"> <b>4.</b> Brawl Stars</font> </p>
-  <p>🔥<font color="#A99EA2"> <b>5.</b> Undertale / NieR:Automata</font> </p>
+  <p>😍   <b>1.</b> Danganronpa <i>(Puhuhu...)</i>   </p>
+  <p>❤️   <b>2.</b> Nekopara   </p>
+  <p>🐒   <b>3.</b> Bloons TD 6   </p>
+  <p>⭐   <b>4.</b> Brawl Stars   </p>
+  <p>🔥   <b>5.</b> Undertale / NieR:Automata   </p>
 </blockquote>
 <br>
 </details>
@@ -210,7 +210,7 @@
   <img src="https://media1.tenor.com/m/Z_jHYKTiYFAAAAAd/kasane-teto.gif" width="150" alt="Teto Bye Bye Footer" />
   <p>
     <strong>
-      <font color="#ff99aa">Obg pela sua visita! Puhuhu... Bye bye! ❤️🚀</font>
+       Obg pela sua visita! Puhuhu... Bye bye! ❤️🚀  
     </strong>
   </p>
 </div>
