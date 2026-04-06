@@ -60,9 +60,9 @@
 <!-- status do github -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff" alt="Estatísticas do Lucas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Estatísticas do Lucas" />
   
-  <img width="15" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img width="15" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Linguagens mais usadas" />
 </div>
 
 
