@@ -18,7 +18,7 @@ jobs:
       - uses: nicconike/steam-stats@master
         with:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }} # Steam API key env var
-          STEAM_ID: ${{ secrets.STEAM_ID }} # Steam ID env var
-          STEAM_CUSTOM_ID: ${{ secrets.STEAM_CUSTOM_ID }} # Custom ID env var
+          STEAM_ID: "76561199226991653" # Steam ID env var
+          STEAM_CUSTOM_ID: "lutawbap" # Custom ID env var
           WORKSHOP_STATS: True # Optional
           LOG_SCALE: True # Optional

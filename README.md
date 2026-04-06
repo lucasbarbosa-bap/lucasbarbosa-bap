@@ -49,15 +49,18 @@
   <img src="https://duolingo-stats-card.vercel.app/api?username=lucas333587&theme=monokai" alt="Estatísticas do Duolingo do Lucas" />
 </div>
 
-<!-- steam -->
 
-<!-- steam-stats start -->
-<!-- steam-stats end -->
+<!-- Steam-Stats start -->
+
+<!-- Steam-Stats end -->
 
 <!-- steam-workshop start -->
-<!-- steam-workshop end -->
 
-<!-- status do github -->
+
+
+<!-- Steam-Workshop start -->
+
+<!-- Steam-Workshop end -->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Estatísticas do Lucas" />
