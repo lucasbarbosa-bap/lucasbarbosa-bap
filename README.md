@@ -27,7 +27,7 @@
 
 <!-- Skills -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/35-Atzd35kMAAAAC/kasane-teto-adorable.gif" width="100" alt="Dancing Teto Skill Guardian" />
+  <img src="https://github.com/user-attachments/assets/d6fde001-79df-4daf-8557-7366be71a623" width="100" alt="Dancing Teto Skill Guardian" />
   <h2>  ૮ ˶ᵔ ᵕ ᵔ˶ ა Linguagens de Programação:  </h2>
 </div>
 <div align="center">
@@ -74,10 +74,11 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Estatísticas do Lucas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Estatísticas do Lucas" />
   
-  <img width="15" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Linguagens mais usadas" />
-</div> 
+  <img width="15" /> 
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Linguagens mais usadas" />
+</div>
 
 
 <!-- Fun facts/Anime vaults -->
