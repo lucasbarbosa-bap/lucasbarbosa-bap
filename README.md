@@ -25,6 +25,8 @@
     <p> ⭐ <strong>Minha meta:</strong> Ensino superior na área de TI ou intercâmbio.    </p>
 </blockquote>
 
+<br>
+
 <!-- Skills -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d6fde001-79df-4daf-8557-7366be71a623" width="100" alt="Dancing Teto Skill Guardian" />
@@ -34,16 +36,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js" />
 </div>
 
+<br>
 <!-- Projects/tropheus -->
 
-<h2>   Projetos e Trofeús ⭐:  </h2>
-<blockquote>
-<ul>
-<li>  Project chika: The Earl Grey logic 1.8;   </li>
-<li>  Currículo pessoal;   </li>
-<li>  JOJOBOOK.   </li>
-</ul>
-</blockquote>
+<h2 align="center">   Projetos e Trofeús ⭐:  </h2>
+
+<div align="center">
+  <a href="https://lucasbarbosa-bap.github.io/Curriculo-Pessoal/">
+    <img src="https://img.shields.io/badge/Currículo-Vanilla%20Web-ff0033?style=for-the-badge&logo=html5&logoColor=white" alt="Currículo" />
+  </a>
+  &nbsp;
+  <a href="https://isaque-andrade22.github.io/JOJOBOOK/">
+    <img src="https://img.shields.io/badge/JOJOBOOK-Vue.js-ff99aa?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="JOJOBOOK" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/lucasbarbosa-bap/Project-Chika-The-Earl-Grey-Logic.git">
+    <img src="https://img.shields.io/badge/Project%20Chika-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white" alt="Project Chika" />
+  </a>
+</div>
+
+<br>
+<br>
 
 <!-- Widgets -->
 <p align="center"> <!-- Spotify -->
@@ -65,6 +78,8 @@
     <!-- <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199226991653" height="240"/> -->
   </a>
 </div>
+
+<br>
 
 <!-- Github Status -->
 <div align="center">
