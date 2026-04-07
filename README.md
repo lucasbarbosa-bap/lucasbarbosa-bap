@@ -81,6 +81,15 @@
 
 <br>
 
+<!-- Hoyoverse Qiqi PARE DE VIM NO 50/50 😭-->
+
+<div align="center">
+  <a href="https://enka.network/hsr/621700257/" target="_blank">
+    <img src="https://github-hoyoverse-cards.vercel.app/api/card/hsr/?uid=621700257&bg=1" width="420" alt="Status Honkai Star Rail" />
+  </a>
+</div>
+<br>
+
 <!-- Github Status -->
 <div align="center">
   <img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="120" alt="Danganronpa Chaos" />
@@ -94,6 +103,11 @@
   <img width="15" /> 
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Linguagens mais usadas" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff" alt="WakaTime Status" />
+</div>
+<br>
 
 
 <!-- Fun facts/Anime vaults -->
