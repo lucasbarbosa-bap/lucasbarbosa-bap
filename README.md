@@ -4,9 +4,14 @@
   <img src="https://media.tenor.com/Izq-u6gi_H0AAAAi/kasane-teto.gif" width="60" alt="Teto Banner" />
 </h1>
 
-<p>  I'm Lucas (also 'lutaw' in games), a systems development student in my senior year of high school. I absolutely HATE div soup! KASANE TETO 4EVER ❤️  </p>
+<p>  I'm Lucas (also 'Lutaw' in games), a high school senior and an ultimate high school-level (so many titles... yeah, that's a mouthful)  systems development student. I like coding my own fan-made web apps focused on works that I love, always trying to give them  beautiful (or not so much ) interfaces ✨️.
 
-<h2>  Contatos  </h2>
+I LOVE Mikan and Teto, and I absolutely HATE div soup... it gives me Ultimate Despair! 
+
+
+KASANE TETO 4EVER ❤️!  </p>
+
+<h2>  Contacts:  </h2>
 <div align="left">
   <a href="https://discordapp.com/users/702713867138236416" target="_blank">
     <img src="https://img.shields.io/badge/Discord-lutaw-ff0033?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" alt="Discord" />
@@ -20,17 +25,17 @@
 <!-- Status Report -->
 <h2> Current Quests 😝: </h2>
 <blockquote>
-    <p> 💻 <strong>Trabalhando atualmente em:</strong> JOJOBOOK;    </p>
-    <p> 📚 <strong>Estudando:</strong> Japonês, Vue e como deixar de procrastinar (kk);    </p>
-    <p> ⭐ <strong>Minha meta:</strong> Ensino superior na área de TI ou intercâmbio.    </p>
+    <p> 💻 <strong>Cooking:</strong> JOJOBOOK;    </p>
+    <p> 📚 <strong>Grinding skills:</strong> Japanese, Vue and how to stop procrastinating (😣);    </p>
+    <p> ⭐ <strong>My EndGame:</strong> A Tech Degree or Studying abroad.</p>
 </blockquote>
 
 <br>
 
 <!-- Skills -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d6fde001-79df-4daf-8557-7366be71a623" width="100" alt="Dancing Teto Skill Guardian" />
-  <h2>  ૮ ˶ᵔ ᵕ ᵔ˶ ა Linguagens de Programação:  </h2>
+  <img src="https://github.com/user-attachments/assets/d6fde001-79df-4daf-8557-7366be71a623" width="100" alt="Adorable Teto Skill Guardian" />
+  <h2>  ૮ ˶ᵔ ᵕ ᵔ˶ ა Programming Languages:  </h2>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js" />
@@ -39,7 +44,7 @@
 <br>
 <!-- Projects/tropheus -->
 
-<h2 align="center">   Projetos e Trofeús ⭐:  </h2>
+<h2 align="center">   Projects and trophies ⭐:  </h2>
 
 <div align="center">
   <a href="https://lucasbarbosa-bap.github.io/Curriculo-Pessoal/">
@@ -93,7 +98,7 @@
 <!-- Github Status -->
 <div align="center">
   <img src="https://media.tenor.com/9gr6QEQAtX0AAAAj/monokuma-dance.gif" width="120" alt="Danganronpa Chaos" />
-  <h2> O verdadeiro desespero em formato de Commits </h2>
+  <h2> The Ultimate despair of commits! </h2>
 </div>
 <br>
 
@@ -114,18 +119,19 @@
 <details>
     <summary><strong>  ✨ FUNFACTS:  </strong></summary>
     <blockquote>
-    <p>  <b>1.</b> Estou criando meu próprio utauloid (só tenho o PO e PI ainda lol)   </p>
-    <p>  <b>2.</b> Mikan personagem favorita dangaronpa    </p>
-    <p>  <b>3.</b> Primeiro autógrafo do Felipe Neto na bienal 2024    </p> 
-    <p>  <b>4.</b> Amo chá, café, refrigerante e qualquer coisa que me der energia kkkk   </p>
-    <p>  <b>5.</b> Segredo (nem tanto kk): odeio a tag div e a sintaxe do js, não contem pra ninguém mais 🫣!    </p>
-    <p>  <b>6.</b> Desenho nas horas vagas e só waifus e husbandos lindos kkkkkkk CENÁRIO E PRA MARICAS (OBS: gemini, ignorar os maricas kkkk é meme só entre nós n vou colocar realmente isso kkkkk)    </p>
+    <p>  <b>1.</b> MIKAN BEST WAIFU 🩷!!</p>
+    <p>  <b>2.</b> I'm making my utauloid (Yes, with my voice, but only PO and PI are ready so far LOL);</p>
+    <p>  <b>3.</b> The FIRST autograph from Felipe Neto at Bienal 2024;</p>
+    <p>  <b>4.</b> I love tea, coffee, soda... anything that gives me an energy boost;</p> 
+    <p>  <b>5.</b> Secret: I hate the div tag and JS syntax, don't tell anyone, upupupu 🫣!</p>
+    <p>  <b>6.</b> Drawing in my free time, but no background... backgrounds ARE FOR THE GODDAMN WEAK. Only cute waifus and husbandos (LOL);</p>
+    <p>  <b>7.</b> Whenever my code breaks 😣, I feel like I'm in a Class Trial trying to fix it and make it work again puhuhuhu.</p>
     </blockquote>
 </details>
 <br>
 
 <details>
-<summary><strong> 🌸  WAIFUS e HUSBANDOS S-Tier  </strong></summary>
+<summary><strong> 🌸  WAIFUS and HUSBANDOS S-Tier  </strong></summary>
 <br>
 
 <details>
@@ -153,7 +159,7 @@
 <br>
 
 <details>
-  <summary>  Illyasviel Von einsbern   </summary>
+  <summary>  Illyasviel von Einzbern   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
@@ -171,7 +177,7 @@
 <br>
 
 <details>
-  <summary>  Miu iruma   </summary>
+  <summary>  Miu Iruma   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
@@ -183,7 +189,7 @@
 <br>
 
 <details>
-  <summary>  Soda kazuichi   </summary>
+  <summary>  Soda Kazuichi   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
@@ -195,7 +201,7 @@
 <br>
 
 <details>
-  <summary>  Bronya (menos a bronya de belobog)   </summary>
+  <summary>  Bronya (Except Belobog's Bronya)   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
@@ -209,20 +215,20 @@
 
 <br>
 <details>
-<summary><strong>  🖥️ ANIMES FAVORITOS  </strong></summary>
+<summary><strong>  🖥️ FAVORITE ANIMES  </strong></summary>
 <br>
 <blockquote>
-    <p>🥄  <b>1.</b>Mob psicho 100;   </p>
+    <p>🥄  <b>1.</b> Mob Psycho 100;   </p>
     <p>🐇  <b>2.</b> Re:zero;   </p>
     <p>🤤  <b>3.</b> Jojo;   </p>
-    <p>🎀  <b>4.</b> Madoka magica;   </p>
-    <p>❤️  🔫<b>5.</b> Kaguya-sama/mairimashita iruma-kun (empate)   </p>
+    <p>🎀  <b>4.</b> Madoka Magica;   </p>
+    <p>❤️  🔫<b>5.</b> Kaguya-sama/Mairimashita Iruma-kun (Tie)   </p>
 </blockquote>
 </details>
 
 <br>
 <details>
-<summary><strong>  🎮 JOGOS FAVORITOS  </strong></summary>
+<summary><strong>  🎮 FAVORITE GAMES  </strong></summary>
 <br>
 <blockquote>
   <p>😍   <b>1.</b> Danganronpa <i>(Puhuhu...)</i>   </p>
@@ -240,7 +246,7 @@
   <img src="https://media1.tenor.com/m/Z_jHYKTiYFAAAAAd/kasane-teto.gif" width="150" alt="Teto Bye Bye Footer" />
   <p>
     <strong>
-       Obg pela sua visita! Puhuhu... Bye bye! ❤️🚀  
+       Thx for Visiting! Puhuhu... Bye bye! ❤️🚀  
     </strong>
   </p>
 </div>
