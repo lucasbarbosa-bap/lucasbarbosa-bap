@@ -136,7 +136,7 @@ KASANE TETO 4EVER ❤️!  </p>
 
 <details>
   <summary>  💉 Mikan Tsumiki   </summary>
-  <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_MIKAN_AQUI" width="150"><br><i>"P-Please forgive me!"</i></blockquote>
+  <blockquote><img src="https://media1.tenor.com/m/SvQU9O81Z60AAAAC/danganronpa-mikan.gif" width="150"> <img src="https://i.pinimg.com/1200x/5b/73/1f/5b731f499e1a090dcad6dda72c80247e.jpg" width="150"> <img src="https://media.tenor.com/4sCqzmiUtuEAAAAi/mikan-kinnie.gif"> <img src="https://media1.tenor.com/m/rZst0tswYBwAAAAC/mikan-tsumiki.gif"> <img src="https://media.tenor.com/BA9Tt8rrJ7cAAAAi/mikan-mikan-tsumiki.gif"> <img src="https://media.tenor.com/IMH7bx6c99kAAAAj/danganronpa-mikan.gif"><br><i>"P-Please forgive me!"</i>   </blockquote>
 </details>
 <br>
 
@@ -164,11 +164,6 @@ KASANE TETO 4EVER ❤️!  </p>
 </details>
 <br>
 
-<details>
-  <summary>  Saya   </summary>
-  <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
-</details>
-<br>
 
 <details>
   <summary>  Beatrice   </summary>
@@ -177,10 +172,23 @@ KASANE TETO 4EVER ❤️!  </p>
 <br>
 
 <details>
+  <summary>  Saya   </summary>
+  <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
+</details>
+<br>
+
+<details>
+  <summary>  Gundham Tanaka   </summary>
+  <blockquote><img src="https://media1.tenor.com/m/ZwzADXxRVSIAAAAC/gundham-gundhamtanaka.gif" width="150"></blockquote>
+</details>
+<br>
+
+<details>
   <summary>  Miu Iruma   </summary>
   <blockquote><img src="LINK_DE_UM_GIF_OU_FOTO_DA_IBUKI_AQUI" width="150"></blockquote>
 </details>
 <br>
+
 
 <details>
   <summary>  Nahida   </summary>
