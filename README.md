@@ -110,7 +110,7 @@ KASANE TETO 4EVER ❤️!  </p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff" alt="WakaTime Status" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Lutaw&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff" alt="WakaTime Status" />
 </div>
 <br>
 
