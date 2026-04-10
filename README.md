@@ -106,11 +106,11 @@ KASANE TETO 4EVER ❤️!  </p>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lucasbarbosa-bap&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Estatísticas do Lucas" />
   
   <img width="15" /> 
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=1" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasbarbosa-bap&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=2" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Lutaw&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff" alt="WakaTime Status" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=Lutaw&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ff0033&icon_color=ff99aa&text_color=ffffff&v=2" alt="WakaTime Status" />
 </div>
 <br>
 
